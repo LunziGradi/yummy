@@ -152,6 +152,7 @@ h1,.black{
     }
     
     
+    
 }
 
 
@@ -201,7 +202,6 @@ a:hover{
     margin-top: 200px;
     position: relative;
     overflow: hidden;
-    height: 373px;   
     padding: 0px;
 }
 .box-right #pizza:hover + .rideau,.rideau:hover{
@@ -213,10 +213,11 @@ a:hover{
     margin-top: -60px; 
 }
 #pizza{
-
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: center;
     border-radius: 8px;
-    overflow: hidden;
-    margin: 0;
 }
 
 #reduction{
