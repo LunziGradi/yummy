@@ -25,7 +25,7 @@ section{
     margin-bottom: 50px;
 }
 .grand{
-    font-size: 60px;
+    font-size: 50px;
 }
 #c-c{
     margin-right: 0;    
@@ -153,6 +153,7 @@ h1,.black{
     }
     
     
+    
 }
 
 
@@ -181,11 +182,10 @@ a:hover{
 }
 .classic-btn{
     background-color: orange;
-    border-radius: 15px;
+    border-radius: 8px;
     padding: 10px;
     height: 40px;
     transition:.3s;
-    text-align: center!important;
     
 }
 .classic-btn:hover{
@@ -212,7 +212,6 @@ a:hover{
 
 #pointeuse{
     margin-top: -60px; 
-    width: 100%;
 }
 #pizza{
     height: 100%;
@@ -297,7 +296,6 @@ a:hover{
 }
 #envoi{
     background-color: orange;
-    text-align: center;
 }
 input,button{
     width:30%;
